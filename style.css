@@ -1,0 +1,76 @@
+/*Jumbotron*/
+.jumbotron {
+	background-color: rgb(255,170,101);
+	border-bottom: 5px solid rgb(204, 136, 81);
+}
+
+	.jumbotron h1 {
+		font-size: 4em;
+		font-family: 'Cinzel', serif;
+		font-weight: 900px;
+	}
+
+body {
+	background-color: rgb(255,204,163);
+}
+
+
+/*Item Entry*/
+.item-entry {
+	margin: 30px 0px;
+}
+
+h2 {
+	font-family: 'Bevan', cursive;
+	font-variant: small-caps;
+}
+
+label {
+	font-family: 'Cinzel', serif;
+	font-weight: 900px;
+}
+
+/*Table*/
+table {
+	margin-top: 30px;
+}
+
+	th {
+		font-family: 'Cinzel', serif;
+		font-weight: 900px;
+		font-size: 1.25em;
+	}
+
+	td {
+		font-family: 'Cinzel', serif;
+		font-weight: 700px;
+	}
+
+/*Font Story:
+font-family: 'Bevan', cursive;
+font-family: 'Diplomata SC', cursive;
+font-family: 'Cinzel', serif;
+font-family: 'Playfair Display SC', serif;
+font-family: 'Harmattan', sans-serif;
+*/
+
+/*Color Story:
+Dark Brown:
+rgb(127, 85, 51);
+#7F5533;
+
+Tan:
+rgb(255,204,163);
+#FFCCA3;
+
+Light tan-orange:
+rgb(255,170,101);
+#FFAA65;
+
+Grey-brown:
+rgb(127, 111, 98);
+#7F6F62
+
+Dark tan-orange:
+rgb(204, 136, 81);
+#CC8851
