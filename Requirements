@@ -1,0 +1,18 @@
+Requirements
+Overall
+* Allow user to toggle between pantry options
+
+
+Beer
+* Show a list of available beer in the pantry
+* Allow user to add a beer, including
+	* Name of the beer
+	* Brewery
+	* Quantity
+	* Beer style
+	* Bottle size
+* Allow user to modify table of beer "quantity" field
+* Double bind fields to update back-end database with user-entered information
+
+Liquor
+* 
